@@ -11,8 +11,8 @@ end
 #fido = Dog.new
 #fido.name = "Fido"
 
-fido.bark
 
+fido.bark
 def bark
     puts "wolf!"
 
