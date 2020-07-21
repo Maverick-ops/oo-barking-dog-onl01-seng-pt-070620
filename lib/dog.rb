@@ -17,7 +17,7 @@ def bark
     puts "wolf!"
     fido.bark
   end
-  
+end 
     
 
 # Your code goes here!
