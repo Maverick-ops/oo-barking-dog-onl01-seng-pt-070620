@@ -11,10 +11,12 @@ end
 fido = Dog.new
 fido.name = "Fido"
 
+
+
 def bark
     puts "wolf!"
   end
 
 
-
+fido.bark
 # Your code goes here!
