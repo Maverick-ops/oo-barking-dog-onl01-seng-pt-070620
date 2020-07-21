@@ -13,7 +13,7 @@ class Dog
 
 
 def bark
-    puts "wolf!"
+    puts "woof!"
     fido.bark
   end
 end 
