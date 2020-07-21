@@ -13,7 +13,7 @@ end
 
 #fido.bark
 
-def bark
+def fido.bark
     puts "wolf!"
   end
 
