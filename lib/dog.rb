@@ -12,8 +12,7 @@ fido = Dog.new
 fido.name = "Fido"
 
 def bark
-  if fido.bark 
-    puts "woof!"
+    puts "wolf!"
   end
 end
 
