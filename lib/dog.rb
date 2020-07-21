@@ -10,4 +10,6 @@ end
 
 fido = Dog.new
 fido.name = "Fido"
+
+puts fido.name 
 # Your code goes here!
