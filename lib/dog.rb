@@ -18,5 +18,5 @@ def bark
   end
 
 
-fido.bark
+
 # Your code goes here!
