@@ -11,10 +11,11 @@ end
 fido = Dog.new
 fido.name = "Fido"
 
-def bark 
-  
-puts fido.name 
+def bark
+  if fido.bark 
+    puts "woof!"
+  end
+end
 
 fido.bark
-woof!
 # Your code goes here!
