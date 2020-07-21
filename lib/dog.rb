@@ -15,8 +15,7 @@ end
 
 def bark
     puts "wolf!"
-  end
 
-
+fi
 
 # Your code goes here!
