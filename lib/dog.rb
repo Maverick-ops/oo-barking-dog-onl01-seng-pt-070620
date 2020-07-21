@@ -12,9 +12,9 @@ end
 #fido.name = "Fido"
 
 
-fido.bark
+
 def bark
     puts "wolf!"
-
+    
 
 # Your code goes here!
