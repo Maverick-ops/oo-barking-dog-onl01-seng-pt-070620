@@ -13,5 +13,6 @@ fido.name = "Fido"
 
 puts fido.name 
 
-
+fido.bark
+woof!
 # Your code goes here!
